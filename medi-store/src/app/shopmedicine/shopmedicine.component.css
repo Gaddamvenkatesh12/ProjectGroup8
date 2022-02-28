@@ -1,0 +1,17 @@
+.quantit{
+    display: flex;
+    justify-content : center;
+}
+.quantit button{
+    width: 25px;
+    height: 25px;
+    color : #000;
+
+}
+.quantit input {
+    border-top : 1px solid #000;
+    border-bottom: 1px solid #000 ;
+    text-align: center;
+    width: 50px;
+    
+}
